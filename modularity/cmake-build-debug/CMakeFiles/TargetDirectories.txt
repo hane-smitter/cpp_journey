@@ -1,0 +1,3 @@
+/home/zaki/Documents/programming/cpp_journey/modularity/cmake-build-debug/CMakeFiles/modularity.dir
+/home/zaki/Documents/programming/cpp_journey/modularity/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zaki/Documents/programming/cpp_journey/modularity/cmake-build-debug/CMakeFiles/rebuild_cache.dir

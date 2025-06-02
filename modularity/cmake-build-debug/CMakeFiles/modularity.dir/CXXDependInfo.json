@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/zaki/Documents/programming/cpp_journey/modularity/cmake-build-debug",
+	"dir-cur-src" : "/home/zaki/Documents/programming/cpp_journey/modularity",
+	"dir-top-bld" : "/home/zaki/Documents/programming/cpp_journey/modularity/cmake-build-debug",
+	"dir-top-src" : "/home/zaki/Documents/programming/cpp_journey/modularity",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/zaki/Documents/programming/cpp_journey/modularity/cmake-build-debug/CMakeFiles/modularity.dir"
+}

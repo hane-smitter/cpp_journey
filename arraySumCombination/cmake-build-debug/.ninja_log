@@ -1,12 +1,10 @@
 # ninja log v6
-1	50	1748185838522189148	CMakeFiles/arraySumCombination.dir/main.cpp.o.ddi	c2b512864351cf7c
-50	52	1748185838571213046	CMakeFiles/arraySumCombination.dir/CXX.dd	eb6887634a1f80ba
-50	52	1748185838571213046	CMakeFiles/arraySumCombination.dir/main.cpp.o.modmap	eb6887634a1f80ba
-52	415	1748185838573214021	CMakeFiles/arraySumCombination.dir/main.cpp.o	3da96a60f880498b
-415	456	1748185838936391060	arraySumCombination	a3db7acbe51af5d
 1	53	1748187785540878819	CMakeFiles/arraySumCombination.dir/main.cpp.o.ddi	87c5d78832435c06
 53	55	1748187785594894942	CMakeFiles/arraySumCombination.dir/CXX.dd	eb6887634a1f80ba
-53	55	1748187785594894942	/home/zaki/Documents/programming/cpp_journey/arraySumCombination/cmake-build-debug/CMakeFiles/arraySumCombination.dir/CXXModules.json	eb6887634a1f80ba
 53	55	1748187785594894942	CMakeFiles/arraySumCombination.dir/main.cpp.o.modmap	eb6887634a1f80ba
 55	479	1748187785594894942	CMakeFiles/arraySumCombination.dir/main.cpp.o	bf68463708b72720
+53	55	1748187785594894942	/home/zaki/Documents/programming/cpp_journey/arraySumCombination/cmake-build-debug/CMakeFiles/arraySumCombination.dir/CXXModules.json	eb6887634a1f80ba
 479	526	1748187786019021533	arraySumCombination	a3db7acbe51af5d
+4	11	1748300943438613695	CMakeFiles/arraySumCombination.dir/CXX.dd	eb6887634a1f80ba
+4	11	1748300943438613695	/home/zaki/Documents/programming/cpp_journey/arraySumCombination/cmake-build-debug/CMakeFiles/arraySumCombination.dir/CXXModules.json	eb6887634a1f80ba
+4	11	1748300943438613695	CMakeFiles/arraySumCombination.dir/main.cpp.o.modmap	eb6887634a1f80ba

@@ -1,0 +1,27 @@
+# ninja log v6
+117	121	1748859554958310790	CMakeFiles/modularity.dir/main.cpp.o.modmap	fd887252e9066f3d
+2	10	1748859237334683955	CMakeFiles/modularity.dir/Vector.cpp.o.ddi	f1efe5a8e4821a3f
+121	631	1748859554962311173	CMakeFiles/modularity.dir/main.cpp.o	24f8c306656ae9a4
+117	121	1748859554958310790	/home/zaki/Documents/programming/cpp_journey/modularity/cmake-build-debug/CMakeFiles/modularity.dir/CXXModules.json	fd887252e9066f3d
+13	36	1748859237345689453	CMakeFiles/modularity.dir/Vector.cpp.o	e27f694132d72794
+117	121	1748859554958310790	CMakeFiles/modularity.dir/CXX.dd	fd887252e9066f3d
+1	117	1748859554842299696	CMakeFiles/modularity.dir/main.cpp.o.ddi	8b45102f5ce6d637
+1	26	1748860976958751657	build.ninja	73ca45b7cf2677fb
+117	121	1748859554958310790	CMakeFiles/modularity.dir/Vector.cpp.o.modmap	fd887252e9066f3d
+631	692	1748859555472361780	modularity	8cce61058e3f9a2b
+5	25	1748863142270408723	CMakeFiles/modularity.dir/Vector.cpp.o.ddi	f1efe5a8e4821a3f
+3	214	1748863142268408732	CMakeFiles/modularity.dir/main.cpp.o.ddi	8b45102f5ce6d637
+214	224	1748863142479407796	CMakeFiles/modularity.dir/CXX.dd	fd887252e9066f3d
+214	224	1748863142479407796	/home/zaki/Documents/programming/cpp_journey/modularity/cmake-build-debug/CMakeFiles/modularity.dir/CXXModules.json	fd887252e9066f3d
+214	224	1748863142479407796	CMakeFiles/modularity.dir/main.cpp.o.modmap	fd887252e9066f3d
+214	224	1748863142479407796	CMakeFiles/modularity.dir/Vector.cpp.o.modmap	fd887252e9066f3d
+225	261	1748863142490407747	CMakeFiles/modularity.dir/Vector.cpp.o	e27f694132d72794
+224	967	1748863142489407751	CMakeFiles/modularity.dir/main.cpp.o	24f8c306656ae9a4
+967	1105	1748863143232404452	modularity	8cce61058e3f9a2b
+1	182	1748864550457365736	CMakeFiles/modularity.dir/main.cpp.o.ddi	8b45102f5ce6d637
+182	190	1748864550638342682	CMakeFiles/modularity.dir/CXX.dd	fd887252e9066f3d
+182	190	1748864550638342682	/home/zaki/Documents/programming/cpp_journey/modularity/cmake-build-debug/CMakeFiles/modularity.dir/CXXModules.json	fd887252e9066f3d
+182	190	1748864550638342682	CMakeFiles/modularity.dir/main.cpp.o.modmap	fd887252e9066f3d
+182	190	1748864550638342682	CMakeFiles/modularity.dir/Vector.cpp.o.modmap	fd887252e9066f3d
+190	1146	1748864550646341663	CMakeFiles/modularity.dir/main.cpp.o	24f8c306656ae9a4
+1146	1309	1748864551602220266	modularity	8cce61058e3f9a2b
